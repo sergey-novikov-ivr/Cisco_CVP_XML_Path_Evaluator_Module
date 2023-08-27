@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/eclipse"/>
+	<classpathentry kind="lib" path="libs/elements.jar"/>
+	<classpathentry kind="lib" path="libs/framework.jar"/>
+	<classpathentry kind="lib" path="libs/SayItSmart.jar"/>
+	<classpathentry kind="lib" path="libs/servlet-api.jar"/>
+	<classpathentry kind="lib" path="libs/xalan.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
