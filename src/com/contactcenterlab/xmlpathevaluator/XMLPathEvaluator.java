@@ -1,4 +1,4 @@
-package com.contactcenterlab.xmlparser;
+package com.contactcenterlab.xmlpathevaluator;
 
 import java.io.IOException;
 
@@ -15,7 +15,7 @@ import javax.xml.xpath.XPathExpressionException;
 
 import org.xml.sax.SAXException;
 
-public class XMLParser extends DecisionElementBase implements ElementInterface {
+public class XMLPathEvaluator extends DecisionElementBase implements ElementInterface {
 	
 	private final String VALUE_NAME = "value";
 	private final String EXIT_STATE_DONE = "found";
@@ -32,7 +32,7 @@ public class XMLParser extends DecisionElementBase implements ElementInterface {
 	
 	// The name of the element
 	public final String getElementName() {
-		return "XMLParser";
+		return "XML_Path_Evaluator";
 	}
 	
 	// The name of the folder in Local Elements
@@ -42,7 +42,7 @@ public class XMLParser extends DecisionElementBase implements ElementInterface {
 
 	// Description
 	public final String getDescription() {
-		return "This a sample of XML parser";
+		return "This XML Path Evaluator module for Cisco Call Studio 12.X";
 	}
 	
 	public ExitState[] getExitStates() throws ElementException {

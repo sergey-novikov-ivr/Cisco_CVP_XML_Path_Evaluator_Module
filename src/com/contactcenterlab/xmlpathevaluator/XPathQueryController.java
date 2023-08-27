@@ -1,4 +1,4 @@
-package com.contactcenterlab.xmlparser;
+package com.contactcenterlab.xmlpathevaluator;
 
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
