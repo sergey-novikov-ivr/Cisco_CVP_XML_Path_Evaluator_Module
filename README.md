@@ -17,15 +17,15 @@ So, we have to compile it manually:
 
 1. Select the project, click on the right button and choose 'Export' in the menu:
 
-&nbsp;&nbsp; ![build1](https://github.com/sergey-novikov-ivr/Cisco_CVP_XML_Path_Evaluator_Module/assets/105890642/c0fd2a49-37fb-442e-8aae-2c2c1f8edc49)
+&nbsp;&nbsp;&nbsp;&nbsp; ![build1](https://github.com/sergey-novikov-ivr/Cisco_CVP_XML_Path_Evaluator_Module/assets/105890642/c0fd2a49-37fb-442e-8aae-2c2c1f8edc49)
 
-3. Select 'JAR file' as an export destination:
+2. Select 'JAR file' as an export destination:
    
-&nbsp;&nbsp; ![build2](https://github.com/sergey-novikov-ivr/Cisco_CVP_XML_Path_Evaluator_Module/assets/105890642/f4996ffc-c927-414a-a2ac-8e734dda7e33)
+&nbsp;&nbsp;&nbsp;&nbsp; ![build2](https://github.com/sergey-novikov-ivr/Cisco_CVP_XML_Path_Evaluator_Module/assets/105890642/f4996ffc-c927-414a-a2ac-8e734dda7e33)
 
-5. Uncheck 'libs' folder:
+3. Uncheck 'libs' folder:
    
-![build3](https://github.com/sergey-novikov-ivr/Cisco_CVP_XML_Path_Evaluator_Module/assets/105890642/f3ee6802-9a71-4b69-993e-89805168fb1d)
+&nbsp;&nbsp;&nbsp;&nbsp; ![build3](https://github.com/sergey-novikov-ivr/Cisco_CVP_XML_Path_Evaluator_Module/assets/105890642/f3ee6802-9a71-4b69-993e-89805168fb1d)
 
 ## Module installation
 
