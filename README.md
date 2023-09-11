@@ -1,10 +1,8 @@
 # XML Path Evaluator Module for Cisco Call Studio 12.X
 
-# UNDER CONSTRUCTION ....
-# UNDER CONSTRUCTION ....
-# UNDER CONSTRUCTION ....
-
 ## Prerequisites
+
+## Compiled module
 
 ## Module compilation
 
@@ -16,6 +14,7 @@
 
 ![build3](https://github.com/sergey-novikov-ivr/Cisco_CVP_XML_Path_Evaluator_Module/assets/105890642/f3ee6802-9a71-4b69-993e-89805168fb1d)
 
+## Module installation
 
 ## Module usage
 
