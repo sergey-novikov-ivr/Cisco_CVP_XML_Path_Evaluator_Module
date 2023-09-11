@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The XML Path Evaluator Module is a custom component for Cisco Call Studio, serving as a dynamic tool for handling and manipulating XML data during call processing
+The XML Path Evaluator Module is a custom component for Cisco Call Studio, offering dynamic XML data handling and manipulation capabilities. It enables the processing of both static and dynamic XML documents using [XPath](https://en.wikipedia.org/wiki/XPath) expressions, enhancing call processing efficiency.
 
 ## Prerequisites
 
