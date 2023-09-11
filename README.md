@@ -4,6 +4,8 @@
 
 ## Compiled module
 
+[Cisco CVP XML Path Evaluator Module for Java 1.8](https://s3.amazonaws.com/files.contactcenterlab.com/Cisco_CVP_XML_Path_Evaluator_Module.jar)
+
 ## Module compilation
 
 ![build1](https://github.com/sergey-novikov-ivr/Cisco_CVP_XML_Path_Evaluator_Module/assets/105890642/c0fd2a49-37fb-442e-8aae-2c2c1f8edc49)
